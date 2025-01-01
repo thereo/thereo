@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there, I'm Thereo Sebastiano Rossi!
 
-<!--
-**thereo/thereo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Machine Learning & DevOps Professional | 🎓 Recent Graduate in Computer Science | 🌱 Backend Enthusiast
 
-Here are some ideas to get you started:
+I’m transitioning into IT, with a strong interest in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    Machine Learning: Building intelligent systems and exploring AI solutions.
+    Backend Development: Creating scalable, efficient, and secure APIs and systems.
+    DevOps: Automating workflows and enhancing deployment pipelines.
+
+🛠️ Skills & Tools
+
+    Programming: Python (Pandas, NumPy, Scikit-learn), JavaScript.
+    Backend: Flask, Django, Node.js.
+    Machine Learning: TensorFlow, Scikit-learn, data preprocessing.
+    Version Control: Git and GitHub.
+    Databases: MySQL, SQLite.
+
+💬 Let’s connect and build the future together!
