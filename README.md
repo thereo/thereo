@@ -1,6 +1,6 @@
 👋 Hi there, I'm Thereo Sebastiano Rossi!
 
-💻 Aspiring Machine Learning & DevOps Professional | 🎓 Recent Graduate in Computer Science | 🌱 Backend Enthusiast
+💻 Machine Learning & DevOps | 🎓 Computer Science | 🌱 Backend Enthusiast
 
 I’m transitioning into IT, with a strong interest in:
 
